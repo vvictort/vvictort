@@ -60,7 +60,6 @@
   <!-- Row 1: GitHub Stats and Streak -->
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=vvictort&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" width="420" height="200" alt="GitHub Stats" />
-    
     <img src="https://streak-stats.demolab.com?user=vvictort&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" width="420" height="200" alt="GitHub Streak" />
   </div>
 
