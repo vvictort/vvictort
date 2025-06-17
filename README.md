@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">My name is Victor, and these are a few facts about:<br><br>-🔭 I’m currently working on Fundra<br>-🌱 I’m currently learning Springboot, React + TailwindCSS<br>-👨‍💻 All of my projects are available at https://github.com/vvictort<br>-💬 Ask me about Java, React and ML<br>-⚡ Fun fact: I am a third-year CS student @ UBC</p>
+<p align="left">My name is Victor, and these are a few facts about:<br><br>-🔭 I’m currently working on Fundra<br>-🌱 I’m currently learning Springboot, React + TailwindCSS<br>-👨‍💻 All of my projects are available <a href="https://github.com/vvictort" target="_blank">here</a><br>-💬 Ask me about Java, React and ML<br>-⚡ Fun fact: I am a third-year CS student @ UBC</p>
 
 ###
 
