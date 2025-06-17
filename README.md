@@ -68,6 +68,6 @@
 
 ###
 
-<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ###
