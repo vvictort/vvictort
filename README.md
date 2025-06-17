@@ -1,10 +1,10 @@
-<br clear="both">
-
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR6Z3lwNHpuZHdvZ2t6eTFxN2d0ZGUzdW1pZjR2azhycW11am03diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy2PyFmAFOC7m24/giphy.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vvictort20/" target="_blank">
@@ -59,29 +59,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvictort&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=vvictort&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvictort&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvictort&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvictort&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvictort&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">✍️ Random Dev Quote</h2>
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)</p>
 
 ###
-
-### 
-
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
