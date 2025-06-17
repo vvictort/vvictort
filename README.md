@@ -57,9 +57,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvictort&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=vvictort&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvictort&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+
+  <!-- Row 1: GitHub Stats and Streak -->
+  <div style="display: inline-block; vertical-align: top; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vvictort&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" width="100%" height="200" alt="GitHub Stats" />
+  </div>
+
+  <div style="display: inline-block; vertical-align: top; width: 49%;">
+    <img src="https://streak-stats.demolab.com?user=vvictort&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" width="100%" height="200" alt="Streak Stats" />
+  </div>
+
+  <!-- Row 2: Most Used Languages -->
+  <div style="margin-top: 10px; width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvictort&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" width="100%" height="150" alt="Top Languages" />
+  </div>
+
 </div>
 
 ###
