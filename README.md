@@ -52,14 +52,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🚀   My Projects :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vvictort&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vvictort&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvictort&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="250" alt="languages graph"  />
+  <a href="https://github.com/vvictort/ml_credit-default-detection" target="_blank">
+    <img src="https://img.shields.io/badge/Credit%20Default%20Detection-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="Credit Default Detection Project (Scikit-learn)" />
+  </a>
+  
+  <a href="https://github.com/vvictort/minecraft_group_project" target="_blank">
+    <img src="https://img.shields.io/badge/Player%20Engagement%20(KNN)-%2300add8?style=for-the-badge&logo=r&logoColor=white" alt="PLAICraft: Player Age Group Engagement in R Project" />
+  </a>
+
 </div>
 
 ###
