@@ -56,16 +56,13 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/vvictort/ml_credit-default-detection" target="_blank">
-    <img src="https://img.shields.io/badge/Credit%20Default%20Detection-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="Credit Default Detection Project (Scikit-learn)" />
-  </a>
-  
-  <a href="https://github.com/vvictort/minecraft_group_project" target="_blank">
-    <img src="https://img.shields.io/badge/Player%20Engagement%20(KNN)-%2300add8?style=for-the-badge&logo=r&logoColor=white" alt="PLAICraft: Player Age Group Engagement in R Project" />
+- <a href="https://github.com/vvictort/ml_credit-default-detection" target="_blank">
+    <img src="https://img.shields.io/badge/Credit%20Default%20Detection%20Project-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="Credit Default Detection Project (Scikit-learn)" />
   </a>
 
-</div>
+- <a href="https://github.com/vvictort/minecraft_group_project" target="_blank">
+    <img src="https://img.shields.io/badge/PLAICraft%3A%20Player%20Age%20Group%20Engagement-%2300add8?style=for-the-badge&logo=r&logoColor=white" alt="PLAICraft: Player Age Group Engagement in R Project" />
+  </a>
 
 ###
 
