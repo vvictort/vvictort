@@ -62,8 +62,8 @@
 ###
 
 - <a href="https://github.com/ExxMLCarbonCompass" target="_blank">
-    <img src="https://img.shields.io/badge/PLAICraft%3A%20Player%20Age%20Group%20Engagement-%2300add8?style=for-the-badge&logo=r&logoColor=white" alt="Carbon Compass" />
-  </a>
+  <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=leaflet&logoColor=white" alt="Carbon Compass" />
+</a>
 
 - <a href="https://github.com/vvictort/ml_credit-default-detection" target="_blank">
     <img src="https://img.shields.io/badge/Credit%20Default%20Detection%20Project-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="Credit Default Detection Project (Scikit-learn)" />
