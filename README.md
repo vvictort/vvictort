@@ -62,7 +62,7 @@
 ###
 
 - <a href="https://github.com/ExxMLCarbonCompass" target="_blank">
-  <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=leaflet&logoColor=white" alt="Carbon Compass" />
+  <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=javascript&logoColor=white" alt="Carbon Compass" />
 </a>
 
 - <a href="https://github.com/vvictort/ml_credit-default-detection" target="_blank">
