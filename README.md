@@ -61,7 +61,7 @@
 
 ###
 
-- <a href="https://github.com/ExxMLCarbonCompass" target="_blank">
+- <a href="https://github.com/ExxML/CarbonCompass" target="_blank">
   <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=javascript&logoColor=white" alt="Carbon Compass" />
 </a>
 
