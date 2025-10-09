@@ -74,13 +74,3 @@
   </a>
 
 ###
-
-<h2 align="left">✍️ Random Dev Quote</h2>
-
-###
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote" />
-</p>
-
-###
