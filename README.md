@@ -65,8 +65,8 @@
   <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=javascript&logoColor=white" alt="Carbon Compass" />
 </a>
 
-- <a href="https://github.com/vvictort/ml_credit-default-detection" target="_blank">
-    <img src="https://img.shields.io/badge/Credit%20Default%20Detection%20Project-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="Credit Default Detection Project (Scikit-learn)" />
+- <a href="https://github.com/vvictort/ubc-bolt-2025" target="_blank">
+    <img src="https://img.shields.io/badge/UBC%20Bolt%202025%3A%20Sentiment%20Analysis%20on%20Hotel-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="UBC Bolt 2025: Sentiment Analysis on Hotel" />
   </a>
 
 - <a href="https://github.com/vvictort/minecraft_group_project" target="_blank">
