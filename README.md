@@ -63,9 +63,13 @@
 
 ###
 
+- <a href="https://github.com/vvictort/nwhacks-2026" target="_blank">
+    <img src="https://img.shields.io/badge/PlayItForward-%238b5cf6?style=for-the-badge&logo=react&logoColor=white" alt="nwHacks 2026: PlayItForward" />
+  </a>
+
 - <a href="https://github.com/ExxML/CarbonCompass" target="_blank">
-  <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=javascript&logoColor=white" alt="Carbon Compass" />
-</a>
+    <img src="https://img.shields.io/badge/Carbon%20Compass-%2300add8?style=for-the-badge&logo=javascript&logoColor=white" alt="Carbon Compass" />
+  </a>
 
 - <a href="https://github.com/vvictort/ubc-bolt-2025" target="_blank">
     <img src="https://img.shields.io/badge/UBC%20Bolt%202025%3A%20Sentiment%20Analysis%20on%20Hotel-%23007acc?style=for-the-badge&logo=python&logoColor=white" alt="UBC Bolt 2025: Sentiment Analysis on Hotel" />
