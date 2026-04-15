@@ -62,6 +62,9 @@
 <h3 align="left">🚀   My Projects :</h3>
 
 ###
+- <a href="https://github.com/vvictort/htc-2026" target="_blank">
+    <img src="https://img.shields.io/badge/Lullalink-%230ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Hack the Coast 2026: Lullalink" />
+  </a>
 
 - <a href="https://github.com/vvictort/nwhacks-2026" target="_blank">
     <img src="https://img.shields.io/badge/PlayItForward-%238b5cf6?style=for-the-badge&logo=react&logoColor=white" alt="nwHacks 2026: PlayItForward" />
