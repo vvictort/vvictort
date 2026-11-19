@@ -109,6 +109,24 @@
 
 <br />
 
+#### 🌱 Altamyra
+
+**HackCamp 2026**
+
+> AI-assisted IEP planning and progress-tracking platform for teachers and education assistants, helping adapt lessons to individual student goals and streamline daily documentation.
+>
+> Built a **role-based workflow** for lesson planning, evidence capture, AI-assisted scoring, approvals, and multilingual family progress summaries, with **human review required before AI-generated content is shared**.
+>
+> Implemented **student-data de-identification** for AI requests and a Lesson Lens agent for personalized lesson adaptations.
+>
+> Built with **React, TypeScript, Tailwind CSS, Hono, Cloudflare Workers, DeepSpace, SQLite Durable Objects, Gemini, and Maritime**.
+
+<a href="https://github.com/vvictort/hackcamp-2026">
+  <img src="https://img.shields.io/badge/View%20Project-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+
 #### 🌙 Lullalink
 
 **Hack The Coast 2026 — Best UI/UX Design & Best Use of Vultr**
