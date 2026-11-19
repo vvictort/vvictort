@@ -97,18 +97,6 @@
 
 ### 🚀 Featured Projects
 
-#### 🖥️ CADStream
-
-> Cloud CAD platform for accessing Windows CAD workstations remotely from macOS, with on-demand cloud provisioning and session controls designed to reduce compute costs.
->
-> Built a **React + Tauri desktop client**, AWS EC2 workstation provisioning, Amazon DCV connection handling, and stop/resume controls for cloud sessions.
->
-> Implemented **passwordless DCV authentication** using Ed25519-signed tokens with a 60-second lifetime, a Node.js/TypeScript signer, and a Go verifier with Windows service support and TLS.
->
-> Built with **React, TypeScript, Tauri, Node.js, Hono, AWS EC2, Go, and SQLite**, with **125+ automated tests** covering UI, API, and authentication behavior.
-
-<br />
-
 #### 🌱 Altamyra
 
 **HackCamp 2026**
@@ -124,6 +112,18 @@
 <a href="https://github.com/vvictort/hackcamp-2026">
   <img src="https://img.shields.io/badge/View%20Project-22c55e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br />
+
+#### 🖥️ CADStream
+
+> Cloud CAD platform for accessing Windows CAD workstations remotely from macOS, with on-demand cloud provisioning and session controls designed to reduce compute costs.
+>
+> Built a **React + Tauri desktop client**, AWS EC2 workstation provisioning, Amazon DCV connection handling, and stop/resume controls for cloud sessions.
+>
+> Implemented **passwordless DCV authentication** using Ed25519-signed tokens with a 60-second lifetime, a Node.js/TypeScript signer, and a Go verifier with Windows service support and TLS.
+>
+> Built with **React, TypeScript, Tauri, Node.js, Hono, AWS EC2, Go, and SQLite**, with **125+ automated tests** covering UI, API, and authentication behavior.
 
 <br />
 
