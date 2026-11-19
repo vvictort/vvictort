@@ -99,7 +99,7 @@
 
 #### 🌱 Altamyra
 
-**HackCamp 2026**
+**HackCamp 2026 — Best Use of Maritime**
 
 > AI-assisted IEP planning and progress-tracking platform for teachers and education assistants, helping adapt lessons to individual student goals and streamline daily documentation.
 >
